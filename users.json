@@ -1,0 +1,251 @@
+[
+	{
+		"id": 281856579,
+		"uid": 0,
+		"ban": false,
+		"exp": 1,
+		"level": 1,
+		"activ": 742,
+		"post": 5,
+		"cups": 0,
+		"business": 0,
+		"bizname": "",
+		"biz": 0,
+		"uron": 0,
+		"works": 5,
+		"food": 100,
+		"dgive": 0,
+		"foolder": 14,
+		"floder": 45,
+		"referal": null,
+		"vivi": false,
+		"count": 0,
+		"donate": 5,
+		"fermers": 5,
+		"warriors": 5,
+		"gg": 2804,
+		"energy": 10,
+		"emeralds": 33,
+		"coal": 548,
+		"iron": 154,
+		"gold": 181,
+		"jelezo": 0,
+		"warn": 0,
+		"warn_p": "Нету",
+		"sad": {
+			"level": 2,
+			"count": 11,
+			"up": 58
+		},
+		"armia": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"derev": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"war": {
+			"timeout": 0,
+			"user": false,
+			"brone": 0
+		},
+		"tag": "Владелец",
+		"uit": 5,
+		"timers": {
+			"mine": false,
+			"bonus": false
+		},
+		"flooder": 6,
+		"giverub": false,
+		"button": [
+			"1"
+		]
+	},
+	{
+		"id": 202079470,
+		"uid": 1,
+		"ban": false,
+		"exp": 1,
+		"level": 1,
+		"activ": 982,
+		"post": 0,
+		"cups": 0,
+		"business": 0,
+		"bizname": "",
+		"biz": 0,
+		"uron": 0,
+		"works": 5,
+		"food": 100,
+		"dgive": 0,
+		"foolder": 0,
+		"floder": 0,
+		"referal": null,
+		"vivi": false,
+		"count": 0,
+		"donate": 0,
+		"fermers": 5,
+		"warriors": 5,
+		"gg": 500,
+		"energy": 10,
+		"emeralds": 0,
+		"coal": 0,
+		"iron": 0,
+		"gold": 0,
+		"jelezo": 0,
+		"warn": 0,
+		"warn_p": "Нету",
+		"sad": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"armia": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"derev": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"war": {
+			"timeout": 0,
+			"user": false,
+			"brone": 0
+		},
+		"tag": "Олег",
+		"uit": 1,
+		"timers": {
+			"mine": false,
+			"bonus": false
+		},
+		"giverub": false
+	},
+	{
+		"id": 508409847,
+		"uid": 2,
+		"ban": false,
+		"exp": 1,
+		"level": 1,
+		"activ": 981,
+		"post": 0,
+		"cups": 0,
+		"business": 0,
+		"bizname": "",
+		"biz": 0,
+		"uron": 0,
+		"works": 5,
+		"food": 100,
+		"dgive": 0,
+		"foolder": 0,
+		"floder": 66,
+		"referal": null,
+		"vivi": false,
+		"count": 0,
+		"donate": 0,
+		"fermers": 5,
+		"warriors": 5,
+		"gg": 500,
+		"energy": 10,
+		"emeralds": 0,
+		"coal": 0,
+		"iron": 0,
+		"gold": 0,
+		"jelezo": 0,
+		"warn": 0,
+		"warn_p": "Нету",
+		"sad": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"armia": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"derev": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"war": {
+			"timeout": 0,
+			"user": false,
+			"brone": 0
+		},
+		"tag": "Виталий",
+		"uit": 2,
+		"timers": {
+			"mine": false,
+			"bonus": false
+		},
+		"giverub": false
+	},
+	{
+		"id": 2818565,
+		"uid": 3,
+		"ban": false,
+		"exp": 1,
+		"level": 1,
+		"activ": 704,
+		"post": 0,
+		"cups": 0,
+		"business": 0,
+		"bizname": "",
+		"biz": 0,
+		"uron": 0,
+		"works": 5,
+		"food": 100,
+		"dgive": 0,
+		"foolder": 4,
+		"floder": 17,
+		"referal": null,
+		"vivi": false,
+		"count": 0,
+		"donate": 10000000,
+		"fermers": 5,
+		"warriors": 5,
+		"gg": 500,
+		"energy": 10,
+		"emeralds": 0,
+		"coal": 0,
+		"iron": 0,
+		"gold": 0,
+		"jelezo": 0,
+		"warn": 0,
+		"warn_p": "Нету",
+		"sad": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"armia": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"derev": {
+			"level": 1,
+			"count": 10,
+			"up": 50
+		},
+		"war": {
+			"timeout": 0,
+			"user": false,
+			"brone": 0
+		},
+		"tag": "Артём",
+		"uit": 3,
+		"timers": {
+			"mine": false,
+			"bonus": false
+		},
+		"flooder": null,
+		"giverub": false
+	}
+]
